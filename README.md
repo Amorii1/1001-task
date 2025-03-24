@@ -13,7 +13,7 @@
 - Git clone https://github.com/your-repo/1001-task.git
 - cd 1001-task
 - Get {.env} file ready using the example
-- Get Videos Folder set in the root folder
+- Create {/Videos} Folder set in the root folder
 
 ### CONFIGURATIONS :
 - `npm i`
