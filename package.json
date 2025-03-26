@@ -1,5 +1,5 @@
 {
-  "name": "1001-task",
+  "name": "video-management-platform-redis",
   "version": "1.0.0",
   "main": "dist/server.js",
   "scripts": {

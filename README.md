@@ -1,4 +1,4 @@
-# 1001-task
+# video-management-platform-redis
 
 ## Features
 - User Authentication (JWT + bcrypt)
@@ -10,8 +10,8 @@
 ## RUN CODE GUIDE 
 - Get Redis ready and running
 - Get Postgresql ready and running
-- Git clone https://github.com/your-repo/1001-task.git
-- cd 1001-task
+- Git clone https://github.com/your-repo/video-management-platform-redis.git
+- cd video-management-platform-redis
 - Get {.env} file ready using the example
 - Create {/Videos} Folder set in the root folder
 
